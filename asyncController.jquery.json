@@ -1,0 +1,26 @@
+{
+  "name": "asyncrequestcontroller",
+  "title": "Async Request Controller",
+  "description": "jQuery plugin for requests asynchronously",
+  "keywords": [
+    "jquery-plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucas Santana",
+    "url": "https://github.com/lucaszanevich"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/lucaszanevich/async-request-controller/issues",
+  "homepage": "http://lucaszanevich.com.br/async-request-controller/",
+  "docs": "http://lucaszanevich.com.br/async-request-controller/index.php#options",
+  "download": "https://github.com/lucaszanevich/async-request-controller/archive/async-request-controller.zip",
+  "dependencies": {
+    "jquery": "latest"
+  }
+}
