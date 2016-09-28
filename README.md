@@ -9,7 +9,7 @@ Download the [production version][min] or the [development version][max].
 
 ## About the plugin
 
-Check page for instructions, examples and documentation.
+Check the page for instructions, examples and documentation.
 
 [Go to page plugin][website]
 
